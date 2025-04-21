@@ -114,7 +114,7 @@
   
 
 </picture>
-![TryHackMe Badge](https://tryhackme.com/badge/859496)
+<img src="https://tryhackme-badges.s3.amazonaws.com/TalBypasses.png" alt="Your Image Badge" />
 ###
 
 <div align="center">
