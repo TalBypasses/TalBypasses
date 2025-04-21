@@ -111,10 +111,10 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=859496" style='border:none;'></iframe>
+  
 
 </picture>
-
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=859496" style='border:none;'></iframe>
 ###
 
 <div align="center">
